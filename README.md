@@ -1,7 +1,6 @@
 # Google Homepage Cloning
 Creating a clone of the google homepage to practice my skills.
 
-[Live Demo] (https://thab09.github.io/google-homepage/)
+[Live Demo](https://thab09.github.io/google-homepage/)
 
-http://github.com - automatic!
 [GitHub](http://github.com)
